@@ -1,0 +1,17 @@
+[
+    {
+        "text": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correct": "Paris"
+    },
+    {
+        "text": "Who wrote 'Hamlet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+        "correct": "William Shakespeare"
+    },
+    {
+        "text": "What is 5 + 7?",
+        "options": ["10", "11", "12", "13"],
+        "correct": "12"
+    }
+]
